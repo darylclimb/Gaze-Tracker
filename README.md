@@ -15,4 +15,4 @@ A Deep learning based Gaze Tracker using a Hourglass Convolutional Neural Networ
 - python live.py
 
 #### Example
--  https://youtu.be/eQU6SNKmr8g
+-  https://www.youtube.com/watch?v=TwREBRt_CfA
